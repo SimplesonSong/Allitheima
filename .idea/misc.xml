@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/spring_01_quickstart/pom.xml" />
+        <option value="$PROJECT_DIR$/spring_02_base_config/pom.xml" />
+        <option value="$PROJECT_DIR$/spring_03_bean_Instance/pom.xml" />
+        <option value="$PROJECT_DIR$/spring_04_bean_lifecycle/pom.xml" />
+        <option value="$PROJECT_DIR$/spring_05_di_set/pom.xml" />
+        <option value="$PROJECT_DIR$/spring_06_di_constructor/pom.xml" />
+        <option value="$PROJECT_DIR$/spring_07_di_autoware/pom.xml" />
+        <option value="$PROJECT_DIR$/spring_08_di_collection/pom.xml" />
+        <option value="$PROJECT_DIR$/spring_09_datasource/pom.xml" />
+        <option value="$PROJECT_DIR$/spring_10_container/pom.xml" />
+        <option value="$PROJECT_DIR$/spring_11_annotation_bean/pom.xml" />
+        <option value="$PROJECT_DIR$/spring_15_spring_mybatis/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot_01_01_quickstart/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot_05_mybatis/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot_06_mybatis-plus/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot_06_mybatis_plus/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot_07_druid/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" project-jdk-name="17" project-jdk-type="JavaSDK" />
+  <component name="ProjectType">
+    <option name="id" value="jpab" />
+  </component>
+</project>

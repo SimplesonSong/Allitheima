@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Allitheima.iml" filepath="$PROJECT_DIR$/.idea/Allitheima.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring_01_quickstart/spring_01_quickstart.iml" filepath="$PROJECT_DIR$/spring_01_quickstart/spring_01_quickstart.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring_02_base_config/spring_02_base_config.iml" filepath="$PROJECT_DIR$/spring_02_base_config/spring_02_base_config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring_03_bean_Instance/spring_03_bean_Instance.iml" filepath="$PROJECT_DIR$/spring_03_bean_Instance/spring_03_bean_Instance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring_04_bean_lifecycle/spring_04_bean_lifecycle.iml" filepath="$PROJECT_DIR$/spring_04_bean_lifecycle/spring_04_bean_lifecycle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring_05_di_set/spring_05_di_set.iml" filepath="$PROJECT_DIR$/spring_05_di_set/spring_05_di_set.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring_06_di_constructor/spring_06_di_constructor.iml" filepath="$PROJECT_DIR$/spring_06_di_constructor/spring_06_di_constructor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring_07_di_autoware/spring_07_di_autoware.iml" filepath="$PROJECT_DIR$/spring_07_di_autoware/spring_07_di_autoware.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring_08_di_collection/spring_08_di_collection.iml" filepath="$PROJECT_DIR$/spring_08_di_collection/spring_08_di_collection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring_09_datasource/spring_09_datasource.iml" filepath="$PROJECT_DIR$/spring_09_datasource/spring_09_datasource.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring_10_container/spring_10_container.iml" filepath="$PROJECT_DIR$/spring_10_container/spring_10_container.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring_11_annotation_bean/spring_11_annotation_bean.iml" filepath="$PROJECT_DIR$/spring_11_annotation_bean/spring_11_annotation_bean.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring_15_spring_mybatis/spring_15_spring_mybatis.iml" filepath="$PROJECT_DIR$/spring_15_spring_mybatis/spring_15_spring_mybatis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot_01_01_quickstart/springboot_01_01_quickstart.iml" filepath="$PROJECT_DIR$/springboot_01_01_quickstart/springboot_01_01_quickstart.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot_05_mybatis/springboot_05_mybatis.iml" filepath="$PROJECT_DIR$/springboot_05_mybatis/springboot_05_mybatis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot_06_mybatis_plus/springboot_06_mybatis_plus.iml" filepath="$PROJECT_DIR$/springboot_06_mybatis_plus/springboot_06_mybatis_plus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot_07_druid/springboot_07_druid.iml" filepath="$PROJECT_DIR$/springboot_07_druid/springboot_07_druid.iml" />
+    </modules>
+  </component>
+</project>

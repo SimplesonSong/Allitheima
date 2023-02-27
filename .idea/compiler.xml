@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="spring_07_di_autoware" />
+        <module name="springboot_05_mybatis" />
+        <module name="spring_11_annotation_bean" />
+        <module name="spring_01_quickstart" />
+        <module name="springboot_07_druid" />
+        <module name="spring_05_di_set" />
+        <module name="spring_08_di_collection" />
+        <module name="springboot_06_mybatis_plus" />
+        <module name="spring_10_container" />
+        <module name="spring_15_spring_mybatis" />
+        <module name="spring_06_di_constructor" />
+        <module name="spring_02_base_config" />
+        <module name="springboot_01_01_quickstart" />
+        <module name="spring_03_bean_Instance" />
+        <module name="spring_09_datasource" />
+        <module name="spring_04_bean_lifecycle" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="spring_01_quickstart" target="17" />
+      <module name="spring_02_base_config" target="17" />
+      <module name="spring_03_bean_Instance" target="17" />
+      <module name="spring_04_bean_lifecycle" target="17" />
+      <module name="spring_05_di_set" target="17" />
+      <module name="spring_06_di_constructor" target="17" />
+      <module name="spring_07_di_autoware" target="17" />
+      <module name="spring_08_di_collection" target="17" />
+      <module name="spring_09_datasource" target="17" />
+      <module name="spring_10_container" target="17" />
+      <module name="spring_11_annotation_bean" target="17" />
+      <module name="spring_15_spring_mybatis" target="17" />
+      <module name="springboot_01_01_quickstart" target="17" />
+      <module name="springboot_05_mybatis" target="17" />
+      <module name="springboot_06_mybatis_plus" target="17" />
+      <module name="springboot_07_druid" target="17" />
+      <module name="untitled" target="17" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="spring_01_quickstart" options="" />
+      <module name="spring_02_base_config" options="" />
+      <module name="spring_03_bean_Instance" options="" />
+      <module name="springboot_01_01_quickstart" options="-parameters" />
+      <module name="springboot_05_mybatis" options="-parameters" />
+      <module name="springboot_06_mybatis_plus" options="-parameters" />
+      <module name="springboot_07_druid" options="-parameters" />
+    </option>
+  </component>
+</project>
