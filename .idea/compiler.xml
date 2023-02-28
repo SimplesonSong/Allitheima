@@ -18,7 +18,7 @@
         <module name="spring_15_spring_mybatis" />
         <module name="spring_06_di_constructor" />
         <module name="spring_02_base_config" />
-        <module name="springboot_01_01_quickstart" />
+        <module name="springboot_01_quickstart" />
         <module name="spring_03_bean_Instance" />
         <module name="spring_09_datasource" />
         <module name="spring_04_bean_lifecycle" />
@@ -37,7 +37,7 @@
       <module name="spring_10_container" target="17" />
       <module name="spring_11_annotation_bean" target="17" />
       <module name="spring_15_spring_mybatis" target="17" />
-      <module name="springboot_01_01_quickstart" target="17" />
+      <module name="springboot_01_quickstart" target="17" />
       <module name="springboot_05_mybatis" target="17" />
       <module name="springboot_06_mybatis_plus" target="17" />
       <module name="springboot_07_druid" target="17" />
@@ -49,7 +49,7 @@
       <module name="spring_01_quickstart" options="" />
       <module name="spring_02_base_config" options="" />
       <module name="spring_03_bean_Instance" options="" />
-      <module name="springboot_01_01_quickstart" options="-parameters" />
+      <module name="springboot_01_quickstart" options="-parameters" />
       <module name="springboot_05_mybatis" options="-parameters" />
       <module name="springboot_06_mybatis_plus" options="-parameters" />
       <module name="springboot_07_druid" options="-parameters" />
