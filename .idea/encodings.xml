@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding">
-    <file url="file://$PROJECT_DIR$/springboot_01_quickstart/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/springboot_01_quickstart/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot_01_01_quickstart/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot_01_01_quickstart/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot_01_02_quickstart/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springboot_05_mybatis/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springboot_06_mybatis_plus/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springboot_06_mybatis_plus/src/main/resources" charset="UTF-8" />
