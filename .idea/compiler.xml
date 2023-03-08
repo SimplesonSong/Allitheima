@@ -17,12 +17,14 @@
         <module name="springboot_06_mybatis_plus" />
         <module name="spring_10_container" />
         <module name="spring_15_spring_mybatis" />
+        <module name="spring_09_dataSource" />
         <module name="spring_06_di_constructor" />
         <module name="spring_02_base_config" />
         <module name="springboot_01_02_quickstart" />
+        <module name="springboot_01_04_quickstart" />
         <module name="springboot_01_01_quickstart" />
         <module name="spring_03_bean_Instance" />
-        <module name="spring_09_datasource" />
+        <module name="springboot_02_base_configuration" />
         <module name="spring_04_bean_lifecycle" />
       </profile>
     </annotationProcessing>
@@ -35,30 +37,29 @@
       <module name="spring_06_di_constructor" target="17" />
       <module name="spring_07_di_autoware" target="17" />
       <module name="spring_08_di_collection" target="17" />
-      <module name="spring_09_datasource" target="17" />
+      <module name="spring_09_dataSource" target="17" />
       <module name="spring_10_container" target="17" />
       <module name="spring_11_annotation_bean" target="17" />
       <module name="spring_15_spring_mybatis" target="17" />
       <module name="springboot_01_01_quickstart" target="17" />
       <module name="springboot_01_02_quickstart" target="17" />
       <module name="springboot_01_03_quickstart" target="11" />
+      <module name="springboot_01_04_quickstart" target="1.8" />
+      <module name="springboot_02_base_configuration" target="17" />
       <module name="springboot_05_mybatis" target="17" />
       <module name="springboot_06_mybatis_plus" target="17" />
       <module name="springboot_07_druid" target="17" />
-      <module name="untitled" target="17" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
-      <module name="spring_01_quickstart" options="" />
-      <module name="spring_02_base_config" options="" />
-      <module name="spring_03_bean_Instance" options="" />
       <module name="springboot_01_01_quickstart" options="-parameters" />
       <module name="springboot_01_02_quickstart" options="-parameters" />
       <module name="springboot_01_03_quickstart" options="-parameters" />
+      <module name="springboot_01_04_quickstart" options="-parameters" />
+      <module name="springboot_02_base_configuration" options="-parameters" />
       <module name="springboot_05_mybatis" options="-parameters" />
       <module name="springboot_06_mybatis_plus" options="-parameters" />
-      <module name="springboot_07_druid" options="-parameters" />
     </option>
   </component>
 </project>

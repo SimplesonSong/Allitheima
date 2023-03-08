@@ -4,10 +4,18 @@
     <file url="file://$PROJECT_DIR$/springboot_01_01_quickstart/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springboot_01_01_quickstart/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springboot_01_02_quickstart/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot_01_02_quickstart/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springboot_01_03_quickstart/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot_01_03_quickstart/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot_01_04_quickstart/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot_01_04_quickstart/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot_02_base_configuration/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot_02_base_configuration/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springboot_05_mybatis/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot_05_mybatis/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springboot_06_mybatis_plus/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springboot_06_mybatis_plus/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springboot_07_druid/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot_07_druid/src/main/resources" charset="UTF-8" />
   </component>
 </project>

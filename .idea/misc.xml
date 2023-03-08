@@ -16,18 +16,15 @@
         <option value="$PROJECT_DIR$/spring_11_annotation_bean/pom.xml" />
         <option value="$PROJECT_DIR$/spring_15_spring_mybatis/pom.xml" />
         <option value="$PROJECT_DIR$/springboot_01_01_quickstart/pom.xml" />
-        <option value="$PROJECT_DIR$/springboot_05_mybatis/pom.xml" />
-        <option value="$PROJECT_DIR$/springboot_06_mybatis-plus/pom.xml" />
-        <option value="$PROJECT_DIR$/springboot_06_mybatis_plus/pom.xml" />
-        <option value="$PROJECT_DIR$/springboot_07_druid/pom.xml" />
-        <option value="$PROJECT_DIR$/springboot_01_quickstart/pom.xml" />
         <option value="$PROJECT_DIR$/springboot_01_02_quickstart/pom.xml" />
         <option value="$PROJECT_DIR$/springboot_01_03_quickstart/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot_01_04_quickstart/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot_02_base_configuration/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot_05_mybatis/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot_06_mybatis_plus/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot_07_druid/pom.xml" />
       </list>
     </option>
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" project-jdk-name="17" project-jdk-type="JavaSDK" />
-  <component name="ProjectType">
-    <option name="id" value="jpab" />
-  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="17" project-jdk-type="JavaSDK" />
 </project>
