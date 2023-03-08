@@ -6,6 +6,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="springboot_01_03_quickstart" />
         <module name="spring_07_di_autoware" />
         <module name="springboot_05_mybatis" />
         <module name="spring_11_annotation_bean" />
@@ -40,6 +41,7 @@
       <module name="spring_15_spring_mybatis" target="17" />
       <module name="springboot_01_01_quickstart" target="17" />
       <module name="springboot_01_02_quickstart" target="17" />
+      <module name="springboot_01_03_quickstart" target="11" />
       <module name="springboot_05_mybatis" target="17" />
       <module name="springboot_06_mybatis_plus" target="17" />
       <module name="springboot_07_druid" target="17" />
@@ -53,6 +55,7 @@
       <module name="spring_03_bean_Instance" options="" />
       <module name="springboot_01_01_quickstart" options="-parameters" />
       <module name="springboot_01_02_quickstart" options="-parameters" />
+      <module name="springboot_01_03_quickstart" options="-parameters" />
       <module name="springboot_05_mybatis" options="-parameters" />
       <module name="springboot_06_mybatis_plus" options="-parameters" />
       <module name="springboot_07_druid" options="-parameters" />
