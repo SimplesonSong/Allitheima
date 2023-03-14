@@ -1,0 +1,437 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3c54f634-a348-44dc-b2a6-01481c21869a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/springboot_01_04_quickstart/src/main/java/com/itheima/controller/BookController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot_02_base_configuration/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot_02_base_configuration/src/main/java/com/itheima/Springboot0102QuickstartApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot_02_base_configuration/src/main/java/com/itheima/controller/BookController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot_02_base_configuration/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot_02_base_configuration/src/test/java/com/itheima/springboot_01_02_quickstart/Springboot0102QuickstartApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot_0x_xxxxxxxxxxx/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot_0x_xxxxxxxxxxx/src/main/java/com/itheima/Springboot0102QuickstartApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot_0x_xxxxxxxxxxx/src/main/java/com/itheima/controller/BookController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot_0x_xxxxxxxxxxx/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot_0x_xxxxxxxxxxx/src/test/java/com/itheima/springboot_01_02_quickstart/Springboot0102QuickstartApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_druid_1_2_6.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_druid_spring_boot_starter_1_2_6.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_baomidou_mybatis_plus_3_4_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_baomidou_mybatis_plus_annotation_3_4_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_baomidou_mybatis_plus_boot_starter_3_4_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_baomidou_mybatis_plus_core_3_4_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_baomidou_mybatis_plus_extension_3_4_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_jsqlparser_jsqlparser_4_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_jayway_jsonpath_json_path_2_6_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_47.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_8_0_29.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_11_22.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_agent_1_11_22.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_9_0_65.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_9_0_65.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_9_0_65.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_assertj_assertj_core_3_21_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_core_4_0_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_junit_jupiter_4_0_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_3_5_9.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_spring_2_0_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_spring_2_0_7.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_spring_boot_mybatis_spring_boot_autoconfigure_2_2_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_spring_boot_mybatis_spring_boot_starter_2_2_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_6_11.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_6_11.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_6_11.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_json_2_6_11.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_6_11.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_2_6_11.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_2_6_11.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_2_6_11.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_2_6_11.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_2_6_11.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_3_22.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_3_22.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_3_22.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_3_22.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_3_22.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_3_22.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_5_3_22.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_5_3_22.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_5_3_22.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_xmlunit_xmlunit_core_2_8_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_29.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_01_quickstart/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_01_quickstart/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_01_quickstart/.idea/libraries/Maven__junit_junit_4_12.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_01_quickstart/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_01_quickstart/.idea/libraries/Maven__org_springframework_spring_aop_5_2_10_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_01_quickstart/.idea/libraries/Maven__org_springframework_spring_beans_5_2_10_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_01_quickstart/.idea/libraries/Maven__org_springframework_spring_context_5_2_10_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_01_quickstart/.idea/libraries/Maven__org_springframework_spring_core_5_2_10_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_01_quickstart/.idea/libraries/Maven__org_springframework_spring_expression_5_2_10_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_01_quickstart/.idea/libraries/Maven__org_springframework_spring_jcl_5_2_10_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_01_quickstart/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_01_quickstart/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_01_quickstart/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_01_quickstart/spring_01_quickstart.iml" beforeDir="false" afterPath="$PROJECT_DIR$/spring_01_quickstart/spring_01_quickstart.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_02_base_config/spring_02_base_config.iml" beforeDir="false" afterPath="$PROJECT_DIR$/spring_02_base_config/spring_02_base_config.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_02_base_config/target/classes/applicationContext.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_02_base_config/target/classes/com/itheima/AppForName.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_02_base_config/target/classes/com/itheima/AppForScope.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_02_base_config/target/classes/com/itheima/dao/BookDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_02_base_config/target/classes/com/itheima/dao/impl/BookDaoImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_02_base_config/target/classes/com/itheima/service/BookService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_02_base_config/target/classes/com/itheima/service/impl/BookServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_03_bean_Instance/spring_03_bean_Instance.iml" beforeDir="false" afterPath="$PROJECT_DIR$/spring_03_bean_Instance/spring_03_bean_Instance.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_03_bean_Instance/target/classes/applicationContext.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_03_bean_Instance/target/classes/com/itheima/AppForInstanceBook.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_03_bean_Instance/target/classes/com/itheima/AppForInstanceOrder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_03_bean_Instance/target/classes/com/itheima/AppForInstanceUser.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_03_bean_Instance/target/classes/com/itheima/dao/BookDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_03_bean_Instance/target/classes/com/itheima/dao/OrderDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_03_bean_Instance/target/classes/com/itheima/dao/UserDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_03_bean_Instance/target/classes/com/itheima/dao/impl/BookDaoImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_03_bean_Instance/target/classes/com/itheima/dao/impl/OrderDaoImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_03_bean_Instance/target/classes/com/itheima/dao/impl/UserDaoImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_03_bean_Instance/target/classes/com/itheima/factory/OrderDaoFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_03_bean_Instance/target/classes/com/itheima/factory/UserDaoFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_03_bean_Instance/target/classes/com/itheima/factory/UserDaoFactoryBean.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_03_bean_Instance/target/classes/com/itheima/service/BookService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_03_bean_Instance/target/classes/com/itheima/service/impl/BookServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_04_bean_lifecycle/spring_04_bean_lifecycle.iml" beforeDir="false" afterPath="$PROJECT_DIR$/spring_04_bean_lifecycle/spring_04_bean_lifecycle.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_04_bean_lifecycle/target/classes/applicationContext.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_04_bean_lifecycle/target/classes/com/itheima/AppForInstanceBook.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_04_bean_lifecycle/target/classes/com/itheima/AppForInstanceOrder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_04_bean_lifecycle/target/classes/com/itheima/AppForInstanceUser.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_04_bean_lifecycle/target/classes/com/itheima/dao/BookDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_04_bean_lifecycle/target/classes/com/itheima/dao/OrderDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_04_bean_lifecycle/target/classes/com/itheima/dao/UserDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_04_bean_lifecycle/target/classes/com/itheima/dao/impl/BookDaoImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_04_bean_lifecycle/target/classes/com/itheima/dao/impl/OrderDaoImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_04_bean_lifecycle/target/classes/com/itheima/dao/impl/UserDaoImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_04_bean_lifecycle/target/classes/com/itheima/factory/BookDaoFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_04_bean_lifecycle/target/classes/com/itheima/factory/OrderDaoFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_04_bean_lifecycle/target/classes/com/itheima/factory/UserDaoFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_04_bean_lifecycle/target/classes/com/itheima/factory/UserDaoFactoryBean.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_04_bean_lifecycle/target/classes/com/itheima/service/BookService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_04_bean_lifecycle/target/classes/com/itheima/service/impl/BookServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_05_di_set/spring_05_di_set.iml" beforeDir="false" afterPath="$PROJECT_DIR$/spring_05_di_set/spring_05_di_set.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_05_di_set/target/classes/applicationContext.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_05_di_set/target/classes/com/itheima/AppForInstanceBook.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_05_di_set/target/classes/com/itheima/AppForInstanceOrder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_05_di_set/target/classes/com/itheima/AppForInstanceUser.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_05_di_set/target/classes/com/itheima/BookService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_05_di_set/target/classes/com/itheima/dao/BookDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_05_di_set/target/classes/com/itheima/dao/OrderDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_05_di_set/target/classes/com/itheima/dao/UserDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_05_di_set/target/classes/com/itheima/dao/impl/BookDaoImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_05_di_set/target/classes/com/itheima/dao/impl/OrderDaoImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_05_di_set/target/classes/com/itheima/dao/impl/UserDaoImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_05_di_set/target/classes/com/itheima/factory/BookDaoFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_05_di_set/target/classes/com/itheima/factory/OrderDaoFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_05_di_set/target/classes/com/itheima/factory/UserDaoFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_05_di_set/target/classes/com/itheima/factory/UserDaoFactoryBean.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_05_di_set/target/classes/com/itheima/service/AppForDISet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_05_di_set/target/classes/com/itheima/service/BookService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_05_di_set/target/classes/com/itheima/service/impl/BookServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_06_di_constructor/spring_06_di_constructor.iml" beforeDir="false" afterPath="$PROJECT_DIR$/spring_06_di_constructor/spring_06_di_constructor.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_06_di_constructor/target/classes/applicationContext.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_06_di_constructor/target/classes/com/itheima/AppForDIConstructor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_06_di_constructor/target/classes/com/itheima/AppForInstanceBook.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_06_di_constructor/target/classes/com/itheima/AppForInstanceOrder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_06_di_constructor/target/classes/com/itheima/AppForInstanceUser.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_06_di_constructor/target/classes/com/itheima/BookService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_06_di_constructor/target/classes/com/itheima/dao/BookDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_06_di_constructor/target/classes/com/itheima/dao/OrderDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_06_di_constructor/target/classes/com/itheima/dao/UserDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_06_di_constructor/target/classes/com/itheima/dao/impl/BookDaoImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_06_di_constructor/target/classes/com/itheima/dao/impl/OrderDaoImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_06_di_constructor/target/classes/com/itheima/dao/impl/UserDaoImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_06_di_constructor/target/classes/com/itheima/factory/BookDaoFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_06_di_constructor/target/classes/com/itheima/factory/OrderDaoFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_06_di_constructor/target/classes/com/itheima/factory/UserDaoFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_06_di_constructor/target/classes/com/itheima/factory/UserDaoFactoryBean.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_06_di_constructor/target/classes/com/itheima/service/AppForDISet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_06_di_constructor/target/classes/com/itheima/service/BookService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_06_di_constructor/target/classes/com/itheima/service/impl/BookServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_07_di_autoware/spring_07_di_autoware.iml" beforeDir="false" afterPath="$PROJECT_DIR$/spring_07_di_autoware/spring_07_di_autoware.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_07_di_autoware/target/classes/applicationContext.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_07_di_autoware/target/classes/com/itheima/AppForDIAutoware.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_07_di_autoware/target/classes/com/itheima/AppForDIConstructor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_07_di_autoware/target/classes/com/itheima/AppForInstanceBook.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_07_di_autoware/target/classes/com/itheima/AppForInstanceOrder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_07_di_autoware/target/classes/com/itheima/AppForInstanceUser.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_07_di_autoware/target/classes/com/itheima/BookService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_07_di_autoware/target/classes/com/itheima/dao/BookDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_07_di_autoware/target/classes/com/itheima/dao/OrderDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_07_di_autoware/target/classes/com/itheima/dao/UserDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_07_di_autoware/target/classes/com/itheima/dao/impl/BookDaoImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_07_di_autoware/target/classes/com/itheima/dao/impl/OrderDaoImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_07_di_autoware/target/classes/com/itheima/dao/impl/UserDaoImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_07_di_autoware/target/classes/com/itheima/factory/BookDaoFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_07_di_autoware/target/classes/com/itheima/factory/OrderDaoFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_07_di_autoware/target/classes/com/itheima/factory/UserDaoFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_07_di_autoware/target/classes/com/itheima/factory/UserDaoFactoryBean.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_07_di_autoware/target/classes/com/itheima/service/AppForDISet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_07_di_autoware/target/classes/com/itheima/service/BookService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_07_di_autoware/target/classes/com/itheima/service/impl/BookServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_08_di_collection/spring_08_di_collection.iml" beforeDir="false" afterPath="$PROJECT_DIR$/spring_08_di_collection/spring_08_di_collection.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_08_di_collection/target/classes/applicationContext.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_08_di_collection/target/classes/com/itheima/AppForDIAutoware.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_08_di_collection/target/classes/com/itheima/AppForDICollection.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_08_di_collection/target/classes/com/itheima/AppForDIConstructor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_08_di_collection/target/classes/com/itheima/AppForInstanceBook.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_08_di_collection/target/classes/com/itheima/AppForInstanceOrder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_08_di_collection/target/classes/com/itheima/AppForInstanceUser.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_08_di_collection/target/classes/com/itheima/BookService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_08_di_collection/target/classes/com/itheima/dao/BookDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_08_di_collection/target/classes/com/itheima/dao/OrderDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_08_di_collection/target/classes/com/itheima/dao/UserDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_08_di_collection/target/classes/com/itheima/dao/impl/BookDaoImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_08_di_collection/target/classes/com/itheima/dao/impl/OrderDaoImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_08_di_collection/target/classes/com/itheima/dao/impl/UserDaoImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_08_di_collection/target/classes/com/itheima/factory/BookDaoFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_08_di_collection/target/classes/com/itheima/factory/OrderDaoFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_08_di_collection/target/classes/com/itheima/factory/UserDaoFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_08_di_collection/target/classes/com/itheima/factory/UserDaoFactoryBean.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_08_di_collection/target/classes/com/itheima/service/AppForDISet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_08_di_collection/target/classes/com/itheima/service/BookService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_08_di_collection/target/classes/com/itheima/service/impl/BookServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_09_datasource/spring_09_datasource.iml" beforeDir="false" afterPath="$PROJECT_DIR$/spring_09_datasource/spring_09_datasource.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_09_datasource/target/classes/applicationContext.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_09_datasource/target/classes/com/itheima/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_09_datasource/target/classes/com/itheima/AppForDIAutoware.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_09_datasource/target/classes/com/itheima/AppForDIConstructor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_09_datasource/target/classes/com/itheima/AppForInstanceBook.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_09_datasource/target/classes/com/itheima/AppForInstanceOrder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_09_datasource/target/classes/com/itheima/AppForInstanceUser.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_09_datasource/target/classes/com/itheima/AppSystemProperties.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_09_datasource/target/classes/com/itheima/BookService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_09_datasource/target/classes/com/itheima/dao/BookDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_09_datasource/target/classes/com/itheima/dao/OrderDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_09_datasource/target/classes/com/itheima/dao/UserDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_09_datasource/target/classes/com/itheima/dao/impl/BookDaoImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_09_datasource/target/classes/com/itheima/dao/impl/OrderDaoImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_09_datasource/target/classes/com/itheima/dao/impl/UserDaoImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_09_datasource/target/classes/com/itheima/factory/BookDaoFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_09_datasource/target/classes/com/itheima/factory/OrderDaoFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_09_datasource/target/classes/com/itheima/factory/UserDaoFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_09_datasource/target/classes/com/itheima/factory/UserDaoFactoryBean.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_09_datasource/target/classes/com/itheima/service/AppForDISet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_09_datasource/target/classes/com/itheima/service/BookService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_09_datasource/target/classes/com/itheima/service/impl/BookServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_09_datasource/target/classes/jdbc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_09_datasource/target/classes/jdbc2.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_10_container/spring_10_container.iml" beforeDir="false" afterPath="$PROJECT_DIR$/spring_10_container/spring_10_container.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_10_container/target/classes/applicationContext.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_10_container/target/classes/com/itheima/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_10_container/target/classes/com/itheima/AppForBeanFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_10_container/target/classes/com/itheima/AppForDIAutoware.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_10_container/target/classes/com/itheima/AppForDIConstructor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_10_container/target/classes/com/itheima/AppForInstanceBook.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_10_container/target/classes/com/itheima/AppForInstanceOrder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_10_container/target/classes/com/itheima/AppForInstanceUser.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_10_container/target/classes/com/itheima/AppSystemProperties.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_10_container/target/classes/com/itheima/BookService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_10_container/target/classes/com/itheima/dao/BookDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_10_container/target/classes/com/itheima/dao/OrderDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_10_container/target/classes/com/itheima/dao/UserDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_10_container/target/classes/com/itheima/dao/impl/BookDaoImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_10_container/target/classes/com/itheima/dao/impl/OrderDaoImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_10_container/target/classes/com/itheima/dao/impl/UserDaoImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_10_container/target/classes/com/itheima/factory/BookDaoFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_10_container/target/classes/com/itheima/factory/OrderDaoFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_10_container/target/classes/com/itheima/factory/UserDaoFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_10_container/target/classes/com/itheima/factory/UserDaoFactoryBean.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_10_container/target/classes/com/itheima/service/AppForDISet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_10_container/target/classes/com/itheima/service/BookService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_10_container/target/classes/com/itheima/service/impl/BookServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_10_container/target/classes/jdbc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_10_container/target/classes/jdbc2.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_11_annotation_bean/spring_11_annotation_bean.iml" beforeDir="false" afterPath="$PROJECT_DIR$/spring_11_annotation_bean/spring_11_annotation_bean.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_11_annotation_bean/target/classes/applicationContext.xml.bak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_11_annotation_bean/target/classes/com/itheima/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_11_annotation_bean/target/classes/com/itheima/AppForApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_11_annotation_bean/target/classes/com/itheima/AppForBeanFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_11_annotation_bean/target/classes/com/itheima/AppForDIAutoware.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_11_annotation_bean/target/classes/com/itheima/AppForDIConstructor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_11_annotation_bean/target/classes/com/itheima/AppForInstanceBook.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_11_annotation_bean/target/classes/com/itheima/AppForInstanceOrder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_11_annotation_bean/target/classes/com/itheima/AppForInstanceUser.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_11_annotation_bean/target/classes/com/itheima/AppSystemProperties.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_11_annotation_bean/target/classes/com/itheima/BookService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_11_annotation_bean/target/classes/com/itheima/config/SpringConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_11_annotation_bean/target/classes/com/itheima/dao/BookDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_11_annotation_bean/target/classes/com/itheima/dao/OrderDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_11_annotation_bean/target/classes/com/itheima/dao/UserDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_11_annotation_bean/target/classes/com/itheima/dao/impl/BookDaoImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_11_annotation_bean/target/classes/com/itheima/dao/impl/OrderDaoImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_11_annotation_bean/target/classes/com/itheima/dao/impl/UserDaoImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_11_annotation_bean/target/classes/com/itheima/factory/BookDaoFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_11_annotation_bean/target/classes/com/itheima/factory/OrderDaoFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_11_annotation_bean/target/classes/com/itheima/factory/UserDaoFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_11_annotation_bean/target/classes/com/itheima/factory/UserDaoFactoryBean.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_11_annotation_bean/target/classes/com/itheima/service/AppForDISet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_11_annotation_bean/target/classes/com/itheima/service/BookService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_11_annotation_bean/target/classes/com/itheima/service/impl/BookServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_11_annotation_bean/target/classes/jdbc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_11_annotation_bean/target/classes/jdbc2.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_15_spring_mybatis/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring_15_spring_mybatis/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_15_spring_mybatis/spring_15_spring_mybatis.iml" beforeDir="false" afterPath="$PROJECT_DIR$/spring_15_spring_mybatis/spring_15_spring_mybatis.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_15_spring_mybatis/target/classes/SqlMapConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_15_spring_mybatis/target/classes/applicationContext.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_15_spring_mybatis/target/classes/com/itheima/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_15_spring_mybatis/target/classes/com/itheima/AppForBeanFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_15_spring_mybatis/target/classes/com/itheima/AppForDIAutoware.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_15_spring_mybatis/target/classes/com/itheima/AppForDIConstructor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_15_spring_mybatis/target/classes/com/itheima/AppForInstanceBook.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_15_spring_mybatis/target/classes/com/itheima/AppForInstanceOrder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_15_spring_mybatis/target/classes/com/itheima/AppForInstanceUser.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_15_spring_mybatis/target/classes/com/itheima/AppSystemProperties.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_15_spring_mybatis/target/classes/com/itheima/BookService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_15_spring_mybatis/target/classes/com/itheima/dao/AccountDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_15_spring_mybatis/target/classes/com/itheima/domain/Account.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_15_spring_mybatis/target/classes/com/itheima/service/AppForDISet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_15_spring_mybatis/target/classes/jdbc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_15_spring_mybatis/target/classes/jdbc2.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot_01_01_quickstart/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/springboot_01_01_quickstart/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot_01_03_quickstart/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/springboot_01_03_quickstart/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot_01_04/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/springboot_01_04_quickstart/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot_01_04/src/main/java/com/itheima/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/springboot_01_04_quickstart/src/main/java/com/itheima/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot_01_04/src/test/java/com/itheima/AppTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/springboot_01_04_quickstart/src/test/java/com/itheima/AppTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2MzGsIOOcmCQUVGvChDCO1YjQuw" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/Codes/Java/Allitheima/springboot_07_druid",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.Springboot0101QuickstartApplication">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.itheima.App" />
+      <module name="spring_01_quickstart" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itheima.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="App2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.itheima.App2" />
+      <module name="spring_01_quickstart" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itheima.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Springboot0101QuickstartApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="springboot_01_01_quickstart" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.itheima.Springboot0101QuickstartApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itheima.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Springboot0102QuickstartApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="springboot_01_02_quickstart" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.itheima.Springboot0102QuickstartApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Springboot07DruidApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="springboot_07_druid" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.itheima.springboot_07_druid.Springboot07DruidApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.Springboot0101QuickstartApplication" />
+        <item itemvalue="Application.App2" />
+        <item itemvalue="Application.App" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3c54f634-a348-44dc-b2a6-01481c21869a" name="Changes" comment="" />
+      <created>1678763203526</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1678763203526</updated>
+      <workItem from="1678763204830" duration="1949000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
