@@ -60,6 +60,7 @@
       <module name="springboot_02_base_configuration" options="-parameters" />
       <module name="springboot_05_mybatis" options="-parameters" />
       <module name="springboot_06_mybatis_plus" options="-parameters" />
+      <module name="springboot_07_druid" options="-parameters" />
     </option>
   </component>
 </project>
