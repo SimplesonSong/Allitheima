@@ -1,0 +1,24 @@
+country: China
+province: ShanDong
+city: JiNan
+
+port: 8080
+
+party: true
+
+birthday: 1949-10-01
+
+user:
+  name: sjs
+  age: 19
+
+a:
+  b:
+    c:
+      d:
+        e: 2
+
+likes:
+  - game
+  - play
+  - sleep
