@@ -2,6 +2,6 @@ spring:
   datasource:
     druid:
       driver-class-name: com.mysql.cj.jdbc.Driver
-      url: jdbc:mysql://localhost:3306/spring_db?useSSL=false&characterEncoding=utf-8
+      url: jdbc:mysql://localhost:3306/allitheima?useSSL=false&characterEncoding=utf-8
       username: root
       password: 1234

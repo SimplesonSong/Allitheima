@@ -9,6 +9,7 @@
         <module name="springboot_01_03_quickstart" />
         <module name="spring_07_di_autoware" />
         <module name="springboot_05_mybatis" />
+        <module name="springboot_03_yaml" />
         <module name="spring_11_annotation_bean" />
         <module name="spring_01_quickstart" />
         <module name="springboot_07_druid" />
@@ -46,6 +47,7 @@
       <module name="springboot_01_03_quickstart" target="11" />
       <module name="springboot_01_04_quickstart" target="1.8" />
       <module name="springboot_02_base_configuration" target="17" />
+      <module name="springboot_03_yaml" target="17" />
       <module name="springboot_05_mybatis" target="17" />
       <module name="springboot_06_mybatis_plus" target="17" />
       <module name="springboot_07_druid" target="17" />
@@ -58,6 +60,7 @@
       <module name="springboot_01_03_quickstart" options="-parameters" />
       <module name="springboot_01_04_quickstart" options="-parameters" />
       <module name="springboot_02_base_configuration" options="-parameters" />
+      <module name="springboot_03_yaml" options="-parameters" />
       <module name="springboot_05_mybatis" options="-parameters" />
       <module name="springboot_06_mybatis_plus" options="-parameters" />
       <module name="springboot_07_druid" options="-parameters" />

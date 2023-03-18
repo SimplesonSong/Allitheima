@@ -11,8 +11,8 @@
     <groupId>com.example</groupId>
     <artifactId>springboot_06_mybatis_plus</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>demo</name>
-    <description>demo</description>
+    <name>springboot_06_mybatis_plus</name>
+    <description>springboot_06_mybatis_plus</description>
     <properties>
         <java.version>17</java.version>
     </properties>
